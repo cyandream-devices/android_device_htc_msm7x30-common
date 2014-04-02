@@ -20,5 +20,4 @@
     <string name="doubletap2wake_summaryOn">DoubleTap2Wake aktiviert</string>
     <string name="doubletap2wake_summaryOff">DoubleTap2Wake deaktiviert</string>
     <string name="sweep2wake_title">Sweep2Wake</string>
-    <string name="sweep2wake_summary">Aktiviere Sweep2Wake (Wischgeste zum Wecken des Gerätes). Bemerkung: Diese Funktionalität ist noch experimentell!</string>
 </resources>
